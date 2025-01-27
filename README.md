@@ -2,7 +2,7 @@
 
 [![1337 Badge](https://img.shields.io/badge/1337-Project-blue)](https://www.42network.org/)  
 
-## 📜 Project Overview  
+## 📜 Project Overview
 
 **push_swap** is a core project in the **1337 curriculum** (part of the 42 Network) that challenges students to sort data on a stack using a limited set of operations. This project focuses on algorithm optimization, problem-solving, and managing constraints.  
 
